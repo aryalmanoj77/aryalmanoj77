@@ -1,16 +1,4 @@
- //Name : Manoj Aryal
- //Class: CSET 1200
- //Instructor: Dr. Jared Oluoch
- //Programming Assignment: 13
- //Date: 11/28/2022
-//This code is my own work. I did not get any help from any online source 
-//such as chegg.com; from a classmate, or any other person other than the instructor 
-//or TA for this course. I understand that getting outside help from this course 
-//other than from the instructor or TA will result in a grade of 0 in this 
-//assignment and other disciplinary actions for academic dishonesty.
-//SUMMARY: This program calculates the area of a triangle , rectangle and square by using the input given by the user and also calculates the total area of the shapes using array and for loop
-//YouTube URL:https://youtu.be/MZkOd1WvZKM
-import java.util.Scanner;
+
 class addAreaNum {
 	public static double addArea(GeomObject[]b) {
 		double addArea=0;
